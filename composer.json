@@ -11,7 +11,7 @@
             "email": "fabyo.php@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "master",
     "bin": [
         "bin/wkhtmltopdf",
 	"bin/wkhtmltoimage"
