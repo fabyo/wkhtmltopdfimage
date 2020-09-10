@@ -18,4 +18,5 @@ cp vendor/fabyo/wkhtmltopdfimage/bin/wkhtmltoimage /usr/local/bin/
 and make it executable:
 
 chmod +x /usr/local/bin/wkhtmltopdf
+
 chmod +x /usr/local/bin/wkhtmltoimage
