@@ -10,3 +10,12 @@ composer require fabyo/wkhtmltopdfimage
 The binary will then be located at:
 
 vendor/fabyo/wkhtmltopdfimage/bin
+
+Move the binaries to a path that is not in a synced folder, for example:
+cp vendor/h4cc/wkhtmltopdfimage/bin/wkhtmltopdf /usr/local/bin/
+cp vendor/fabyo/wkhtmltopdfimage/bin/wkhtmltoimage /usr/local/bin/
+
+and make it executable:
+
+chmod +x /usr/local/bin/wkhtmltopdf
+chmod +x /usr/local/bin/wkhtmltoimage
