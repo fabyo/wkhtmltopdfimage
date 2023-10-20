@@ -1,6 +1,6 @@
 {
     "name": "fabyo/wkhtmltopdfimage",
-    "description": "Gerador de pdf e imagem",
+    "description": "Gerador de pdf, e imagem",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
